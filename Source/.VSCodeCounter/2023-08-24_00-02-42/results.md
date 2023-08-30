@@ -1,0 +1,231 @@
+# Summary
+
+Date : 2023-08-24 00:02:42
+
+Directory c:\\Users\\ASUS\\Desktop\\Source
+
+Total : 379 files,  79454 codes, 2211 comments, 1491 blanks, all 83156 lines
+
+Summary / [Details](details.md) / [Diff Summary](diff.md) / [Diff Details](diff-details.md)
+
+## Languages
+| language | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| PHP | 253 | 64,921 | 1,481 | 1,160 | 67,562 |
+| JSON | 4 | 8,183 | 0 | 3 | 8,186 |
+| CSS | 24 | 3,265 | 143 | 47 | 3,455 |
+| JavaScript | 91 | 2,766 | 585 | 253 | 3,604 |
+| XML | 6 | 274 | 2 | 6 | 282 |
+| Markdown | 1 | 45 | 0 | 22 | 67 |
+
+## Directories
+| path | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| . | 379 | 79,454 | 2,211 | 1,491 | 83,156 |
+| . (Files) | 8 | 8,496 | 127 | 34 | 8,657 |
+| app | 35 | 3,370 | 532 | 277 | 4,179 |
+| app\\Console | 1 | 15 | 7 | 6 | 28 |
+| app\\Exceptions | 1 | 17 | 9 | 5 | 31 |
+| app\\Http | 18 | 575 | 402 | 156 | 1,133 |
+| app\\Http (Files) | 2 | 73 | 21 | 12 | 106 |
+| app\\Http\\Controllers | 5 | 364 | 316 | 97 | 777 |
+| app\\Http\\Middleware | 10 | 125 | 60 | 43 | 228 |
+| app\\Http\\Requests | 1 | 13 | 5 | 4 | 22 |
+| app\\Main | 3 | 2,224 | 9 | 9 | 2,242 |
+| app\\Models | 1 | 37 | 26 | 10 | 73 |
+| app\\Providers | 6 | 98 | 55 | 33 | 186 |
+| app\\View | 5 | 404 | 24 | 58 | 486 |
+| app\\View\\Composers | 5 | 404 | 24 | 58 | 486 |
+| bootstrap | 1 | 17 | 30 | 9 | 56 |
+| config | 15 | 526 | 750 | 238 | 1,514 |
+| database | 7 | 196 | 42 | 29 | 267 |
+| database\\factories | 1 | 25 | 11 | 5 | 41 |
+| database\\migrations | 4 | 96 | 24 | 16 | 136 |
+| database\\seeders | 2 | 75 | 7 | 8 | 90 |
+| public | 1 | 14 | 30 | 12 | 56 |
+| resources | 302 | 66,680 | 648 | 854 | 68,182 |
+| resources\\css | 23 | 3,264 | 141 | 47 | 3,452 |
+| resources\\css (Files) | 3 | 927 | 124 | 6 | 1,057 |
+| resources\\css\\components | 20 | 2,337 | 17 | 41 | 2,395 |
+| resources\\images | 5 | 245 | 0 | 5 | 250 |
+| resources\\js | 87 | 2,520 | 460 | 244 | 3,224 |
+| resources\\js (Files) | 4 | 152 | 24 | 26 | 202 |
+| resources\\js\\components | 40 | 1,971 | 40 | 136 | 2,147 |
+| resources\\js\\components\\balloon-block-editor | 1 | 9 | 0 | 2 | 11 |
+| resources\\js\\components\\balloon-editor | 1 | 9 | 0 | 2 | 11 |
+| resources\\js\\components\\calendar | 2 | 78 | 0 | 6 | 84 |
+| resources\\js\\components\\calendar (Files) | 1 | 62 | 0 | 4 | 66 |
+| resources\\js\\components\\calendar\\draggable | 1 | 16 | 0 | 2 | 18 |
+| resources\\js\\components\\classic-editor | 1 | 9 | 0 | 2 | 11 |
+| resources\\js\\components\\dark-mode-switcher | 1 | 14 | 1 | 3 | 18 |
+| resources\\js\\components\\document-editor | 1 | 16 | 0 | 2 | 18 |
+| resources\\js\\components\\donut-chart | 1 | 42 | 1 | 2 | 45 |
+| resources\\js\\components\\dropzone | 1 | 33 | 1 | 6 | 40 |
+| resources\\js\\components\\highlight | 1 | 21 | 5 | 7 | 33 |
+| resources\\js\\components\\horizontal-bar-chart | 1 | 86 | 1 | 2 | 89 |
+| resources\\js\\components\\inline-editor | 1 | 9 | 0 | 2 | 11 |
+| resources\\js\\components\\leaflet-map-loader | 1 | 89 | 0 | 10 | 99 |
+| resources\\js\\components\\line-chart | 1 | 96 | 1 | 2 | 99 |
+| resources\\js\\components\\litepicker | 1 | 38 | 1 | 6 | 45 |
+| resources\\js\\components\\lucide | 1 | 8 | 1 | 2 | 11 |
+| resources\\js\\components\\mobile-menu | 1 | 44 | 2 | 4 | 50 |
+| resources\\js\\components\\pie-chart | 1 | 41 | 1 | 2 | 44 |
+| resources\\js\\components\\preview-component | 1 | 18 | 1 | 2 | 21 |
+| resources\\js\\components\\report-bar-chart | 1 | 77 | 5 | 8 | 90 |
+| resources\\js\\components\\report-bar-chart-1 | 1 | 83 | 1 | 2 | 86 |
+| resources\\js\\components\\report-donut-chart | 1 | 44 | 1 | 2 | 47 |
+| resources\\js\\components\\report-donut-chart-1 | 1 | 42 | 1 | 2 | 45 |
+| resources\\js\\components\\report-donut-chart-2 | 1 | 40 | 1 | 2 | 43 |
+| resources\\js\\components\\report-line-chart | 1 | 94 | 1 | 2 | 97 |
+| resources\\js\\components\\report-pie-chart | 1 | 43 | 1 | 2 | 46 |
+| resources\\js\\components\\simple-line-chart | 1 | 69 | 1 | 2 | 72 |
+| resources\\js\\components\\simple-line-chart-1 | 1 | 75 | 1 | 2 | 78 |
+| resources\\js\\components\\simple-line-chart-2 | 1 | 75 | 1 | 2 | 78 |
+| resources\\js\\components\\simple-line-chart-3 | 1 | 82 | 1 | 2 | 85 |
+| resources\\js\\components\\simple-line-chart-4 | 1 | 82 | 1 | 2 | 85 |
+| resources\\js\\components\\source | 1 | 15 | 1 | 3 | 19 |
+| resources\\js\\components\\stacked-bar-chart | 1 | 91 | 1 | 2 | 94 |
+| resources\\js\\components\\stacked-bar-chart-1 | 1 | 76 | 1 | 2 | 79 |
+| resources\\js\\components\\tiny-slider | 1 | 101 | 1 | 9 | 111 |
+| resources\\js\\components\\tippy | 1 | 26 | 1 | 8 | 35 |
+| resources\\js\\components\\tippy-content | 1 | 49 | 1 | 7 | 57 |
+| resources\\js\\components\\tom-select | 1 | 49 | 1 | 6 | 56 |
+| resources\\js\\components\\top-bar | 1 | 13 | 0 | 3 | 16 |
+| resources\\js\\components\\vertical-bar-chart | 1 | 85 | 1 | 2 | 88 |
+| resources\\js\\layouts | 1 | 61 | 2 | 6 | 69 |
+| resources\\js\\layouts\\side-menu | 1 | 61 | 2 | 6 | 69 |
+| resources\\js\\pages | 8 | 264 | 394 | 39 | 697 |
+| resources\\js\\pages\\calendar | 1 | 0 | 77 | 5 | 82 |
+| resources\\js\\pages\\chat | 1 | 18 | 0 | 2 | 20 |
+| resources\\js\\pages\\login | 1 | 44 | 3 | 7 | 54 |
+| resources\\js\\pages\\modal | 1 | 18 | 3 | 4 | 25 |
+| resources\\js\\pages\\notification | 1 | 104 | 12 | 10 | 126 |
+| resources\\js\\pages\\slideover | 1 | 18 | 3 | 4 | 25 |
+| resources\\js\\pages\\tabulator | 1 | 4 | 296 | 1 | 301 |
+| resources\\js\\pages\\validation | 1 | 58 | 0 | 6 | 64 |
+| resources\\js\\vendor | 34 | 72 | 0 | 37 | 109 |
+| resources\\js\\vendor\\accordion | 1 | 1 | 0 | 1 | 2 |
+| resources\\js\\vendor\\alert | 1 | 1 | 0 | 1 | 2 |
+| resources\\js\\vendor\\calendar | 5 | 11 | 0 | 5 | 16 |
+| resources\\js\\vendor\\calendar (Files) | 1 | 2 | 0 | 1 | 3 |
+| resources\\js\\vendor\\calendar\\plugins | 4 | 9 | 0 | 4 | 13 |
+| resources\\js\\vendor\\chartjs | 1 | 2 | 0 | 1 | 3 |
+| resources\\js\\vendor\\ckeditor | 5 | 10 | 0 | 5 | 15 |
+| resources\\js\\vendor\\ckeditor\\balloon | 1 | 2 | 0 | 1 | 3 |
+| resources\\js\\vendor\\ckeditor\\balloon-block | 1 | 2 | 0 | 1 | 3 |
+| resources\\js\\vendor\\ckeditor\\classic | 1 | 2 | 0 | 1 | 3 |
+| resources\\js\\vendor\\ckeditor\\document | 1 | 2 | 0 | 1 | 3 |
+| resources\\js\\vendor\\ckeditor\\inline | 1 | 2 | 0 | 1 | 3 |
+| resources\\js\\vendor\\dom | 1 | 2 | 0 | 1 | 3 |
+| resources\\js\\vendor\\dropdown | 1 | 1 | 0 | 1 | 2 |
+| resources\\js\\vendor\\dropzone | 1 | 2 | 0 | 1 | 3 |
+| resources\\js\\vendor\\highlight | 1 | 4 | 0 | 1 | 5 |
+| resources\\js\\vendor\\image-zoom | 1 | 1 | 0 | 1 | 2 |
+| resources\\js\\vendor\\leaflet-map | 1 | 3 | 0 | 1 | 4 |
+| resources\\js\\vendor\\litepicker | 1 | 2 | 0 | 1 | 3 |
+| resources\\js\\vendor\\lucide | 1 | 3 | 0 | 1 | 4 |
+| resources\\js\\vendor\\modal | 1 | 1 | 0 | 1 | 2 |
+| resources\\js\\vendor\\pristine | 1 | 2 | 0 | 1 | 3 |
+| resources\\js\\vendor\\simplebar | 1 | 2 | 0 | 1 | 3 |
+| resources\\js\\vendor\\svg-loader | 1 | 1 | 0 | 1 | 2 |
+| resources\\js\\vendor\\tab | 1 | 1 | 0 | 1 | 2 |
+| resources\\js\\vendor\\tabulator | 1 | 2 | 0 | 1 | 3 |
+| resources\\js\\vendor\\tailwind-merge | 1 | 7 | 0 | 4 | 11 |
+| resources\\js\\vendor\\tiny-slider | 1 | 2 | 0 | 1 | 3 |
+| resources\\js\\vendor\\tippy | 1 | 4 | 0 | 1 | 5 |
+| resources\\js\\vendor\\toastify | 1 | 2 | 0 | 1 | 3 |
+| resources\\js\\vendor\\tom-select | 1 | 2 | 0 | 1 | 3 |
+| resources\\js\\vendor\\transition | 1 | 1 | 0 | 1 | 2 |
+| resources\\js\\vendor\\xlsx | 1 | 2 | 0 | 1 | 3 |
+| resources\\json | 1 | 1 | 0 | 0 | 1 |
+| resources\\views | 186 | 60,650 | 47 | 558 | 61,255 |
+| resources\\views\\components | 108 | 17,333 | 25 | 278 | 17,636 |
+| resources\\views\\components\\base | 83 | 16,604 | 25 | 207 | 16,836 |
+| resources\\views\\components\\base\\alert | 2 | 130 | 3 | 8 | 141 |
+| resources\\views\\components\\base\\balloon-block-editor | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\base\\balloon-editor | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\base\\breadcrumb | 2 | 31 | 0 | 7 | 38 |
+| resources\\views\\components\\base\\button | 1 | 161 | 6 | 8 | 175 |
+| resources\\views\\components\\base\\calendar | 1 | 15 | 0 | 3 | 18 |
+| resources\\views\\components\\base\\calendar\\draggable | 1 | 15 | 0 | 3 | 18 |
+| resources\\views\\components\\base\\chart | 1 | 8 | 0 | 2 | 10 |
+| resources\\views\\components\\base\\classic-editor | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\base\\dialog | 5 | 39 | 0 | 11 | 50 |
+| resources\\views\\components\\base\\disclosure | 4 | 70 | 0 | 9 | 79 |
+| resources\\views\\components\\base\\document-editor | 1 | 18 | 0 | 3 | 21 |
+| resources\\views\\components\\base\\dropzone | 1 | 28 | 0 | 4 | 32 |
+| resources\\views\\components\\base\\file-icon | 1 | 38 | 0 | 3 | 41 |
+| resources\\views\\components\\base\\form-check | 3 | 29 | 6 | 9 | 44 |
+| resources\\views\\components\\base\\form-help | 1 | 6 | 0 | 1 | 7 |
+| resources\\views\\components\\base\\form-inline | 1 | 6 | 0 | 1 | 7 |
+| resources\\views\\components\\base\\form-input | 1 | 20 | 0 | 2 | 22 |
+| resources\\views\\components\\base\\form-label | 1 | 7 | 0 | 2 | 9 |
+| resources\\views\\components\\base\\form-select | 1 | 18 | 0 | 2 | 20 |
+| resources\\views\\components\\base\\form-switch | 3 | 18 | 2 | 5 | 25 |
+| resources\\views\\components\\base\\form-textarea | 1 | 20 | 0 | 2 | 22 |
+| resources\\views\\components\\base\\highlight | 1 | 35 | 0 | 4 | 39 |
+| resources\\views\\components\\base\\image-zoom | 1 | 11 | 0 | 3 | 14 |
+| resources\\views\\components\\base\\inline-editor | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\base\\input-group | 2 | 17 | 0 | 4 | 21 |
+| resources\\views\\components\\base\\leaflet-map-loader | 1 | 23 | 0 | 4 | 27 |
+| resources\\views\\components\\base\\litepicker | 1 | 14 | 0 | 3 | 17 |
+| resources\\views\\components\\base\\loading-icon | 1 | 15,279 | 0 | 3 | 15,282 |
+| resources\\views\\components\\base\\lucide | 1 | 17 | 0 | 4 | 21 |
+| resources\\views\\components\\base\\menu | 7 | 64 | 0 | 11 | 75 |
+| resources\\views\\components\\base\\notification | 1 | 4 | 0 | 1 | 5 |
+| resources\\views\\components\\base\\pagination | 2 | 20 | 0 | 3 | 23 |
+| resources\\views\\components\\base\\popover | 3 | 43 | 0 | 6 | 49 |
+| resources\\views\\components\\base\\preview | 1 | 3 | 0 | 1 | 4 |
+| resources\\views\\components\\base\\preview-component | 1 | 8 | 0 | 2 | 10 |
+| resources\\views\\components\\base\\progress | 2 | 12 | 0 | 2 | 14 |
+| resources\\views\\components\\base\\progress (Files) | 1 | 6 | 0 | 1 | 7 |
+| resources\\views\\components\\base\\progress\\bar | 1 | 6 | 0 | 1 | 7 |
+| resources\\views\\components\\base\\slideover | 5 | 39 | 0 | 11 | 50 |
+| resources\\views\\components\\base\\source | 1 | 8 | 0 | 2 | 10 |
+| resources\\views\\components\\base\\tab | 6 | 120 | 8 | 21 | 149 |
+| resources\\views\\components\\base\\table | 6 | 68 | 0 | 11 | 79 |
+| resources\\views\\components\\base\\tiny-slider | 1 | 17 | 0 | 4 | 21 |
+| resources\\views\\components\\base\\tippy | 1 | 23 | 0 | 4 | 27 |
+| resources\\views\\components\\base\\tippy-content | 1 | 11 | 0 | 3 | 14 |
+| resources\\views\\components\\base\\tom-select | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\base\\transition | 1 | 41 | 0 | 3 | 44 |
+| resources\\views\\components\\calendar | 1 | 18 | 0 | 3 | 21 |
+| resources\\views\\components\\dark-mode-switcher | 1 | 19 | 0 | 2 | 21 |
+| resources\\views\\components\\donut-chart | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\horizontal-bar-chart | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\leaflet-map | 1 | 6 | 0 | 1 | 7 |
+| resources\\views\\components\\line-chart | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\main-color-switcher | 1 | 28 | 0 | 1 | 29 |
+| resources\\views\\components\\mobile-menu | 1 | 131 | 0 | 3 | 134 |
+| resources\\views\\components\\pie-chart | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\report-bar-chart | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\report-bar-chart-1 | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\report-donut-chart | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\report-donut-chart-1 | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\report-donut-chart-2 | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\report-line-chart | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\report-pie-chart | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\simple-line-chart | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\simple-line-chart-1 | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\simple-line-chart-2 | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\simple-line-chart-3 | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\simple-line-chart-4 | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\stacked-bar-chart | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\stacked-bar-chart-1 | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\components\\top-bar | 1 | 280 | 0 | 4 | 284 |
+| resources\\views\\components\\vertical-bar-chart | 1 | 13 | 0 | 3 | 16 |
+| resources\\views\\layouts | 4 | 422 | 10 | 33 | 465 |
+| resources\\views\\login | 1 | 137 | 0 | 4 | 141 |
+| resources\\views\\pages | 73 | 42,758 | 12 | 243 | 43,013 |
+| routes | 4 | 107 | 40 | 18 | 165 |
+| tests | 4 | 41 | 10 | 19 | 70 |
+| tests (Files) | 2 | 20 | 3 | 10 | 33 |
+| tests\\Feature | 1 | 11 | 4 | 5 | 20 |
+| tests\\Unit | 1 | 10 | 3 | 4 | 17 |
+| vendor | 2 | 7 | 2 | 1 | 10 |
+| vendor\\spatie | 2 | 7 | 2 | 1 | 10 |
+| vendor\\spatie\\ignition | 2 | 7 | 2 | 1 | 10 |
+| vendor\\spatie\\ignition\\resources | 2 | 7 | 2 | 1 | 10 |
+| vendor\\spatie\\ignition\\resources\\compiled | 2 | 7 | 2 | 1 | 10 |
+
+Summary / [Details](details.md) / [Diff Summary](diff.md) / [Diff Details](diff-details.md)
